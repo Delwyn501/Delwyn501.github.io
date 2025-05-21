@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SettingPersistent">
+    <option name="settingEntity">
+      <SettingEntity>
+        <option name="channelId" value="BFxIL-uv3jUmiB7A8VfNi8QfNkotlQFUFwjtTrbJMnNjPiU8mUQ-D37_xGE9DqT305h4f3WveXuGqWXVFxidcciKUb4nqkGYCk4rK6F7ra6XUXVGhqe3chcUN-YRLrPpmc1a7ht0MQ" />
+        <option name="didAccessToken" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjoiVGFaMngzbXZ3ak5ZNlpFT2VpR1lWV1RhdEdkeVhVTVgvVS9qN0Zka2syc1VjcHpBOExNbzlWa1ZEbEdzeXJPN3J4MWk2WGtFWGNTNVViT09qVjRsKzE0cllMeExYRmxQY2dUaU5ZRHNaL2ZjbEs3VGVtTG95dDRxQTZHTUpUcTFMaUUwc25sYWdta2FnQ2FxSy9BNWxzNDQ0OTFhNDA4Qmd2cVVpZC96RWNUZTVKL0pDempMYllvRVlOaG9ZQ21TR0czSldydW13bmtOWmx2aDdlNVdmb3ZNNUMvSE5hTHNzZEtRVWRONC83dHRDOWh3QTV4V0lQZGxEaDg1L1JpWXI5Y1VCa05Jcy9UTXNNUFlQYTdtNXZyU0l6Q09JVVlUcm5VOExWMGR2aDg9IiwiZXhwIjoxNzUwMzYxNzExfQ.csw9EOFdTbqL8elfjqI-d4ZmnR3G_Ifo9an62E75WGM" />
+        <option name="modelType" value="Deepseek-32" />
+        <option name="uid" value="931d30b775caa3a32ab9d3821a596e3175c99932c37aafe8fe9552d165f7394f" />
+      </SettingEntity>
+    </option>
+  </component>
+</project>
